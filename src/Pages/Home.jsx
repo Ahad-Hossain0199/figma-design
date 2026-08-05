@@ -1,11 +1,10 @@
 import React from 'react'
-import Bannar from '../Components/Bannar'
+import Banner from '../Components/Banner'
 
 const Home = () => {
   return (
     <>
-    <Bannar/>
-      
+      <Banner />
     </>
   )
 }
